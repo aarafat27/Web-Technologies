@@ -1,0 +1,170 @@
+
+body {
+    margin : 0;
+    font-family: 'Poppins', sans-serif;
+}
+.button {
+    text-decoration: none;
+    font-weight: bold;
+    padding : 15px 40px 15px 40px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    text-transform: capitalize;   
+}
+.button:hover {
+    background-color: green;
+
+}
+.colorful-text {
+    color : black;
+}
+
+#header-area{
+    width: 90%;
+    height: 500px;
+    margin : auto;
+}
+.btn-area > ul > li {
+	float: left;
+    list-style: none;   
+}
+.btn-area ul li a {
+	
+	color: Black;
+	text-decoration: none;
+	font-size: 16px;
+	cursor: pointer;
+	padding: 10px 20px;
+    display: block;
+    font-weight: bold;
+}
+.btn-area {
+    padding-left: 60%;
+}
+.content-area {
+    padding-top: 100px;   
+}
+#header-area  .content-area h1 {
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 50px;
+    color: blue;
+    margin-bottom: 0px;
+}
+#header-area .content-area p {
+    padding-bottom: 50px;
+}
+.half-width {
+    float: left;
+    width: 40%;  
+}
+.half-width img {
+    width: 100%;    
+}
+#header-area .header-image-area {
+    padding-left: 10%;
+}
+
+#about-area {
+    width: 80%;
+    height: 500px;
+    margin : auto;
+}
+h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+    color: blue;
+    font-weight: bold;
+}
+#about-area p{
+    padding-bottom: 50px;
+}
+#about-area .about-text-area {
+    padding-left: 10%;
+}
+#work-area {
+    padding-top: 100px;
+    padding-bottom: 200px;
+    height: 500px;
+    background-color: rgba(192, 192, 192, 0.192);
+}
+#work-area h2 {
+    text-align: center;
+    padding-bottom: 70px;
+}
+.column {
+    width: 20%;
+    background-color: rgba(255, 255, 255, 0.541);
+    float: left;
+    border-radius: 20px;
+    padding: 20px  1.5% 30px 1.5%;     
+}
+#work-area .work-area-left-section{
+    margin-left: 10%;
+}
+#work-area .work-area-Right-section{
+    margin-right: 10%;
+}
+#work-area .work-area-middle-section{
+    margin : 0 5.5%;
+}
+#work-area .column img {
+    width: 100%;
+}
+#work-area .column p {
+    font-size: 14px;
+}
+
+#protfolio-area {
+    width: 80%;
+    margin: auto;
+    padding : 100px 0px;
+    background-image: url("images/protfolio-background.png");
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: center;
+    height: 300px;
+    text-align: center;
+}
+#protfolio-area .text-area  {
+    padding-top: 100px;
+    padding-left: 100px;   
+}
+#protfolio-area .text-area h2 {
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+}
+#protfolio-area .btn-area {
+    padding-top: 150px;
+    padding-left: 100px;
+}
+
+#contact-area {
+    
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    height: 600px;
+}
+
+input {
+    width: 100%;
+    padding: 15px 15px;
+    margin : 10px 0px;
+    border-radius: 10px;
+}
+#Connection_Address {
+    margin-bottom: 50px;
+}
+#footer-area {
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+
+  
+  
